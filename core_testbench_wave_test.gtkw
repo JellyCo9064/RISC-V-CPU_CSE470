@@ -1,0 +1,211 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat May 13 06:13:53 2023
+[*]
+[dumpfile] "/home/heibai/470/branch_project/logs/core_testbench_wave.vcd"
+[dumpfile_mtime] "Sat May 13 06:12:39 2023"
+[dumpfile_size] 1054677
+[savefile] "/home/heibai/470/branch_project/core_testbench_wave_test.gtkw"
+[timestart] 233
+[size] 2548 1407
+[pos] -1 -1
+*-2.000000 270 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.core.
+[treeopen] TOP.core.bp.
+[treeopen] TOP.core.rf.
+[sst_width] 267
+[signals_width] 250
+[sst_expanded] 1
+[sst_vpaned_height] 436
+@29
+TOP.core.handling_branch_op_out
+@28
+TOP.core.is_branching
+TOP.core.clk
+TOP.core.ps[1:0]
+TOP.core.halted
+TOP.core.branch
+TOP.core.handling_branch_op
+TOP.core.bp.tbs.taken
+TOP.core.bp.tbs.update
+TOP.core.bp.tbs.counter[1:0]
+TOP.core.is_pred_branch
+@22
+TOP.core.pred_branch_addr[31:0]
+TOP.core.inst_addr[31:0]
+TOP.core.curr_inst[31:0]
+@200
+-
+@28
+TOP.core.decode_inst_valid
+@800022
+TOP.core.decode_inst[96:0]
+#{opcode} (33)TOP.core.decode_inst[96:0] (34)TOP.core.decode_inst[96:0] (35)TOP.core.decode_inst[96:0] (36)TOP.core.decode_inst[96:0] (37)TOP.core.decode_inst[96:0] (38)TOP.core.decode_inst[96:0] (39)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800028
+#{funct3} (40)TOP.core.decode_inst[96:0] (41)TOP.core.decode_inst[96:0] (42)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rd} (43)TOP.core.decode_inst[96:0] (44)TOP.core.decode_inst[96:0] (45)TOP.core.decode_inst[96:0] (46)TOP.core.decode_inst[96:0] (47)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs1} (48)TOP.core.decode_inst[96:0] (49)TOP.core.decode_inst[96:0] (50)TOP.core.decode_inst[96:0] (51)TOP.core.decode_inst[96:0] (52)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs2} (53)TOP.core.decode_inst[96:0] (54)TOP.core.decode_inst[96:0] (55)TOP.core.decode_inst[96:0] (56)TOP.core.decode_inst[96:0] (57)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct7} (58)TOP.core.decode_inst[96:0] (59)TOP.core.decode_inst[96:0] (60)TOP.core.decode_inst[96:0] (61)TOP.core.decode_inst[96:0] (62)TOP.core.decode_inst[96:0] (63)TOP.core.decode_inst[96:0] (64)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{imm} (65)TOP.core.decode_inst[96:0] (66)TOP.core.decode_inst[96:0] (67)TOP.core.decode_inst[96:0] (68)TOP.core.decode_inst[96:0] (69)TOP.core.decode_inst[96:0] (70)TOP.core.decode_inst[96:0] (71)TOP.core.decode_inst[96:0] (72)TOP.core.decode_inst[96:0] (73)TOP.core.decode_inst[96:0] (74)TOP.core.decode_inst[96:0] (75)TOP.core.decode_inst[96:0] (76)TOP.core.decode_inst[96:0] (77)TOP.core.decode_inst[96:0] (78)TOP.core.decode_inst[96:0] (79)TOP.core.decode_inst[96:0] (80)TOP.core.decode_inst[96:0] (81)TOP.core.decode_inst[96:0] (82)TOP.core.decode_inst[96:0] (83)TOP.core.decode_inst[96:0] (84)TOP.core.decode_inst[96:0] (85)TOP.core.decode_inst[96:0] (86)TOP.core.decode_inst[96:0] (87)TOP.core.decode_inst[96:0] (88)TOP.core.decode_inst[96:0] (89)TOP.core.decode_inst[96:0] (90)TOP.core.decode_inst[96:0] (91)TOP.core.decode_inst[96:0] (92)TOP.core.decode_inst[96:0] (93)TOP.core.decode_inst[96:0] (94)TOP.core.decode_inst[96:0] (95)TOP.core.decode_inst[96:0] (96)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+-group_end
+@200
+-
+@28
+TOP.core.exec_inst_valid
+@800022
+TOP.core.exec_inst[96:0]
+#{opcode} (33)TOP.core.exec_inst[96:0] (34)TOP.core.exec_inst[96:0] (35)TOP.core.exec_inst[96:0] (36)TOP.core.exec_inst[96:0] (37)TOP.core.exec_inst[96:0] (38)TOP.core.exec_inst[96:0] (39)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800028
+#{funct3} (40)TOP.core.exec_inst[96:0] (41)TOP.core.exec_inst[96:0] (42)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rd} (43)TOP.core.exec_inst[96:0] (44)TOP.core.exec_inst[96:0] (45)TOP.core.exec_inst[96:0] (46)TOP.core.exec_inst[96:0] (47)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs1} (48)TOP.core.exec_inst[96:0] (49)TOP.core.exec_inst[96:0] (50)TOP.core.exec_inst[96:0] (51)TOP.core.exec_inst[96:0] (52)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs2} (53)TOP.core.exec_inst[96:0] (54)TOP.core.exec_inst[96:0] (55)TOP.core.exec_inst[96:0] (56)TOP.core.exec_inst[96:0] (57)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct7} (58)TOP.core.exec_inst[96:0] (59)TOP.core.exec_inst[96:0] (60)TOP.core.exec_inst[96:0] (61)TOP.core.exec_inst[96:0] (62)TOP.core.exec_inst[96:0] (63)TOP.core.exec_inst[96:0] (64)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{imm} (65)TOP.core.exec_inst[96:0] (66)TOP.core.exec_inst[96:0] (67)TOP.core.exec_inst[96:0] (68)TOP.core.exec_inst[96:0] (69)TOP.core.exec_inst[96:0] (70)TOP.core.exec_inst[96:0] (71)TOP.core.exec_inst[96:0] (72)TOP.core.exec_inst[96:0] (73)TOP.core.exec_inst[96:0] (74)TOP.core.exec_inst[96:0] (75)TOP.core.exec_inst[96:0] (76)TOP.core.exec_inst[96:0] (77)TOP.core.exec_inst[96:0] (78)TOP.core.exec_inst[96:0] (79)TOP.core.exec_inst[96:0] (80)TOP.core.exec_inst[96:0] (81)TOP.core.exec_inst[96:0] (82)TOP.core.exec_inst[96:0] (83)TOP.core.exec_inst[96:0] (84)TOP.core.exec_inst[96:0] (85)TOP.core.exec_inst[96:0] (86)TOP.core.exec_inst[96:0] (87)TOP.core.exec_inst[96:0] (88)TOP.core.exec_inst[96:0] (89)TOP.core.exec_inst[96:0] (90)TOP.core.exec_inst[96:0] (91)TOP.core.exec_inst[96:0] (92)TOP.core.exec_inst[96:0] (93)TOP.core.exec_inst[96:0] (94)TOP.core.exec_inst[96:0] (95)TOP.core.exec_inst[96:0] (96)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+-group_end
+@200
+-
+@28
+TOP.core.mem_inst_valid
+@800022
+TOP.core.mem_inst[96:0]
+#{opcode} (33)TOP.core.mem_inst[96:0] (34)TOP.core.mem_inst[96:0] (35)TOP.core.mem_inst[96:0] (36)TOP.core.mem_inst[96:0] (37)TOP.core.mem_inst[96:0] (38)TOP.core.mem_inst[96:0] (39)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800028
+#{funct3} (40)TOP.core.mem_inst[96:0] (41)TOP.core.mem_inst[96:0] (42)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rd} (43)TOP.core.mem_inst[96:0] (44)TOP.core.mem_inst[96:0] (45)TOP.core.mem_inst[96:0] (46)TOP.core.mem_inst[96:0] (47)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs1} (48)TOP.core.mem_inst[96:0] (49)TOP.core.mem_inst[96:0] (50)TOP.core.mem_inst[96:0] (51)TOP.core.mem_inst[96:0] (52)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs2} (53)TOP.core.mem_inst[96:0] (54)TOP.core.mem_inst[96:0] (55)TOP.core.mem_inst[96:0] (56)TOP.core.mem_inst[96:0] (57)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct7} (58)TOP.core.mem_inst[96:0] (59)TOP.core.mem_inst[96:0] (60)TOP.core.mem_inst[96:0] (61)TOP.core.mem_inst[96:0] (62)TOP.core.mem_inst[96:0] (63)TOP.core.mem_inst[96:0] (64)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{imm} (65)TOP.core.mem_inst[96:0] (66)TOP.core.mem_inst[96:0] (67)TOP.core.mem_inst[96:0] (68)TOP.core.mem_inst[96:0] (69)TOP.core.mem_inst[96:0] (70)TOP.core.mem_inst[96:0] (71)TOP.core.mem_inst[96:0] (72)TOP.core.mem_inst[96:0] (73)TOP.core.mem_inst[96:0] (74)TOP.core.mem_inst[96:0] (75)TOP.core.mem_inst[96:0] (76)TOP.core.mem_inst[96:0] (77)TOP.core.mem_inst[96:0] (78)TOP.core.mem_inst[96:0] (79)TOP.core.mem_inst[96:0] (80)TOP.core.mem_inst[96:0] (81)TOP.core.mem_inst[96:0] (82)TOP.core.mem_inst[96:0] (83)TOP.core.mem_inst[96:0] (84)TOP.core.mem_inst[96:0] (85)TOP.core.mem_inst[96:0] (86)TOP.core.mem_inst[96:0] (87)TOP.core.mem_inst[96:0] (88)TOP.core.mem_inst[96:0] (89)TOP.core.mem_inst[96:0] (90)TOP.core.mem_inst[96:0] (91)TOP.core.mem_inst[96:0] (92)TOP.core.mem_inst[96:0] (93)TOP.core.mem_inst[96:0] (94)TOP.core.mem_inst[96:0] (95)TOP.core.mem_inst[96:0] (96)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+-group_end
+@200
+-
+@28
+TOP.core.wb_inst_valid
+@800022
+TOP.core.wb_inst[96:0]
+#{opcode} (33)TOP.core.wb_inst[96:0] (34)TOP.core.wb_inst[96:0] (35)TOP.core.wb_inst[96:0] (36)TOP.core.wb_inst[96:0] (37)TOP.core.wb_inst[96:0] (38)TOP.core.wb_inst[96:0] (39)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800028
+#{funct3} (40)TOP.core.wb_inst[96:0] (41)TOP.core.wb_inst[96:0] (42)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rd} (43)TOP.core.wb_inst[96:0] (44)TOP.core.wb_inst[96:0] (45)TOP.core.wb_inst[96:0] (46)TOP.core.wb_inst[96:0] (47)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs1} (48)TOP.core.wb_inst[96:0] (49)TOP.core.wb_inst[96:0] (50)TOP.core.wb_inst[96:0] (51)TOP.core.wb_inst[96:0] (52)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs2} (53)TOP.core.wb_inst[96:0] (54)TOP.core.wb_inst[96:0] (55)TOP.core.wb_inst[96:0] (56)TOP.core.wb_inst[96:0] (57)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct7} (58)TOP.core.wb_inst[96:0] (59)TOP.core.wb_inst[96:0] (60)TOP.core.wb_inst[96:0] (61)TOP.core.wb_inst[96:0] (62)TOP.core.wb_inst[96:0] (63)TOP.core.wb_inst[96:0] (64)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{imm} (65)TOP.core.wb_inst[96:0] (66)TOP.core.wb_inst[96:0] (67)TOP.core.wb_inst[96:0] (68)TOP.core.wb_inst[96:0] (69)TOP.core.wb_inst[96:0] (70)TOP.core.wb_inst[96:0] (71)TOP.core.wb_inst[96:0] (72)TOP.core.wb_inst[96:0] (73)TOP.core.wb_inst[96:0] (74)TOP.core.wb_inst[96:0] (75)TOP.core.wb_inst[96:0] (76)TOP.core.wb_inst[96:0] (77)TOP.core.wb_inst[96:0] (78)TOP.core.wb_inst[96:0] (79)TOP.core.wb_inst[96:0] (80)TOP.core.wb_inst[96:0] (81)TOP.core.wb_inst[96:0] (82)TOP.core.wb_inst[96:0] (83)TOP.core.wb_inst[96:0] (84)TOP.core.wb_inst[96:0] (85)TOP.core.wb_inst[96:0] (86)TOP.core.wb_inst[96:0] (87)TOP.core.wb_inst[96:0] (88)TOP.core.wb_inst[96:0] (89)TOP.core.wb_inst[96:0] (90)TOP.core.wb_inst[96:0] (91)TOP.core.wb_inst[96:0] (92)TOP.core.wb_inst[96:0] (93)TOP.core.wb_inst[96:0] (94)TOP.core.wb_inst[96:0] (95)TOP.core.wb_inst[96:0] (96)TOP.core.wb_inst[96:0]
+@200
+-
+@22
+TOP.core.rf.data_out_mux[0][31:0]
+TOP.core.rf.data_out_mux[1][31:0]
+TOP.core.rf.data_out_mux[2][31:0]
+TOP.core.rf.data_out_mux[3][31:0]
+TOP.core.rf.data_out_mux[4][31:0]
+TOP.core.rf.data_out_mux[5][31:0]
+TOP.core.rf.data_out_mux[6][31:0]
+TOP.core.rf.data_out_mux[7][31:0]
+TOP.core.rf.data_out_mux[8][31:0]
+TOP.core.rf.data_out_mux[9][31:0]
+TOP.core.rf.data_out_mux[10][31:0]
+TOP.core.rf.data_out_mux[11][31:0]
+TOP.core.rf.data_out_mux[12][31:0]
+TOP.core.rf.data_out_mux[13][31:0]
+TOP.core.rf.data_out_mux[14][31:0]
+TOP.core.rf.data_out_mux[15][31:0]
+TOP.core.rf.data_out_mux[16][31:0]
+TOP.core.rf.data_out_mux[17][31:0]
+TOP.core.rf.data_out_mux[18][31:0]
+TOP.core.rf.data_out_mux[19][31:0]
+TOP.core.rf.data_out_mux[20][31:0]
+TOP.core.rf.data_out_mux[21][31:0]
+@1001200
+-group_end
+-group_end
+@22
+TOP.core.rf.data_out_mux[22][31:0]
+TOP.core.rf.data_out_mux[23][31:0]
+TOP.core.rf.data_out_mux[24][31:0]
+TOP.core.rf.data_out_mux[25][31:0]
+TOP.core.rf.data_out_mux[26][31:0]
+TOP.core.rf.data_out_mux[27][31:0]
+TOP.core.rf.data_out_mux[28][31:0]
+TOP.core.rf.data_out_mux[29][31:0]
+TOP.core.rf.data_out_mux[30][31:0]
+TOP.core.rf.data_out_mux[31][31:0]
+[pattern_trace] 1
+[pattern_trace] 0

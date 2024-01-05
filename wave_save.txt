@@ -1,0 +1,160 @@
+@800022
+TOP.core.decode_inst[96:0]
+#{is_pb} (0)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800028
+#{addr} (1)TOP.core.decode_inst[96:0] (2)TOP.core.decode_inst[96:0] (3)TOP.core.decode_inst[96:0] (4)TOP.core.decode_inst[96:0] (5)TOP.core.decode_inst[96:0] (6)TOP.core.decode_inst[96:0] (7)TOP.core.decode_inst[96:0] (8)TOP.core.decode_inst[96:0] (9)TOP.core.decode_inst[96:0] (10)TOP.core.decode_inst[96:0] (11)TOP.core.decode_inst[96:0] (12)TOP.core.decode_inst[96:0] (13)TOP.core.decode_inst[96:0] (14)TOP.core.decode_inst[96:0] (15)TOP.core.decode_inst[96:0] (16)TOP.core.decode_inst[96:0] (17)TOP.core.decode_inst[96:0] (18)TOP.core.decode_inst[96:0] (19)TOP.core.decode_inst[96:0] (20)TOP.core.decode_inst[96:0] (21)TOP.core.decode_inst[96:0] (22)TOP.core.decode_inst[96:0] (23)TOP.core.decode_inst[96:0] (24)TOP.core.decode_inst[96:0] (25)TOP.core.decode_inst[96:0] (26)TOP.core.decode_inst[96:0] (27)TOP.core.decode_inst[96:0] (28)TOP.core.decode_inst[96:0] (29)TOP.core.decode_inst[96:0] (30)TOP.core.decode_inst[96:0] (31)TOP.core.decode_inst[96:0] (32)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{opcode} (33)TOP.core.decode_inst[96:0] (34)TOP.core.decode_inst[96:0] (35)TOP.core.decode_inst[96:0] (36)TOP.core.decode_inst[96:0] (37)TOP.core.decode_inst[96:0] (38)TOP.core.decode_inst[96:0] (39)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct3} (40)TOP.core.decode_inst[96:0] (41)TOP.core.decode_inst[96:0] (42)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rd} (43)TOP.core.decode_inst[96:0] (44)TOP.core.decode_inst[96:0] (45)TOP.core.decode_inst[96:0] (46)TOP.core.decode_inst[96:0] (47)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs1} (48)TOP.core.decode_inst[96:0] (49)TOP.core.decode_inst[96:0] (50)TOP.core.decode_inst[96:0] (51)TOP.core.decode_inst[96:0] (52)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs2} (53)TOP.core.decode_inst[96:0] (54)TOP.core.decode_inst[96:0] (55)TOP.core.decode_inst[96:0] (56)TOP.core.decode_inst[96:0] (57)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct7} (58)TOP.core.decode_inst[96:0] (59)TOP.core.decode_inst[96:0] (60)TOP.core.decode_inst[96:0] (61)TOP.core.decode_inst[96:0] (62)TOP.core.decode_inst[96:0] (63)TOP.core.decode_inst[96:0] (64)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+@800022
+#{imm} (65)TOP.core.decode_inst[96:0] (66)TOP.core.decode_inst[96:0] (67)TOP.core.decode_inst[96:0] (68)TOP.core.decode_inst[96:0] (69)TOP.core.decode_inst[96:0] (70)TOP.core.decode_inst[96:0] (71)TOP.core.decode_inst[96:0] (72)TOP.core.decode_inst[96:0] (73)TOP.core.decode_inst[96:0] (74)TOP.core.decode_inst[96:0] (75)TOP.core.decode_inst[96:0] (76)TOP.core.decode_inst[96:0] (77)TOP.core.decode_inst[96:0] (78)TOP.core.decode_inst[96:0] (79)TOP.core.decode_inst[96:0] (80)TOP.core.decode_inst[96:0] (81)TOP.core.decode_inst[96:0] (82)TOP.core.decode_inst[96:0] (83)TOP.core.decode_inst[96:0] (84)TOP.core.decode_inst[96:0] (85)TOP.core.decode_inst[96:0] (86)TOP.core.decode_inst[96:0] (87)TOP.core.decode_inst[96:0] (88)TOP.core.decode_inst[96:0] (89)TOP.core.decode_inst[96:0] (90)TOP.core.decode_inst[96:0] (91)TOP.core.decode_inst[96:0] (92)TOP.core.decode_inst[96:0] (93)TOP.core.decode_inst[96:0] (94)TOP.core.decode_inst[96:0] (95)TOP.core.decode_inst[96:0] (96)TOP.core.decode_inst[96:0]
+@1001200
+-group_end
+-group_end
+@200
+-
+@800022
+TOP.core.exec_inst[96:0]
+#{is_pb} (0)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800028
+#{addr} (1)TOP.core.exec_inst[96:0] (2)TOP.core.exec_inst[96:0] (3)TOP.core.exec_inst[96:0] (4)TOP.core.exec_inst[96:0] (5)TOP.core.exec_inst[96:0] (6)TOP.core.exec_inst[96:0] (7)TOP.core.exec_inst[96:0] (8)TOP.core.exec_inst[96:0] (9)TOP.core.exec_inst[96:0] (10)TOP.core.exec_inst[96:0] (11)TOP.core.exec_inst[96:0] (12)TOP.core.exec_inst[96:0] (13)TOP.core.exec_inst[96:0] (14)TOP.core.exec_inst[96:0] (15)TOP.core.exec_inst[96:0] (16)TOP.core.exec_inst[96:0] (17)TOP.core.exec_inst[96:0] (18)TOP.core.exec_inst[96:0] (19)TOP.core.exec_inst[96:0] (20)TOP.core.exec_inst[96:0] (21)TOP.core.exec_inst[96:0] (22)TOP.core.exec_inst[96:0] (23)TOP.core.exec_inst[96:0] (24)TOP.core.exec_inst[96:0] (25)TOP.core.exec_inst[96:0] (26)TOP.core.exec_inst[96:0] (27)TOP.core.exec_inst[96:0] (28)TOP.core.exec_inst[96:0] (29)TOP.core.exec_inst[96:0] (30)TOP.core.exec_inst[96:0] (31)TOP.core.exec_inst[96:0] (32)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{opcode} (33)TOP.core.exec_inst[96:0] (34)TOP.core.exec_inst[96:0] (35)TOP.core.exec_inst[96:0] (36)TOP.core.exec_inst[96:0] (37)TOP.core.exec_inst[96:0] (38)TOP.core.exec_inst[96:0] (39)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct3} (40)TOP.core.exec_inst[96:0] (41)TOP.core.exec_inst[96:0] (42)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rd} (43)TOP.core.exec_inst[96:0] (44)TOP.core.exec_inst[96:0] (45)TOP.core.exec_inst[96:0] (46)TOP.core.exec_inst[96:0] (47)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs1} (48)TOP.core.exec_inst[96:0] (49)TOP.core.exec_inst[96:0] (50)TOP.core.exec_inst[96:0] (51)TOP.core.exec_inst[96:0] (52)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs2} (53)TOP.core.exec_inst[96:0] (54)TOP.core.exec_inst[96:0] (55)TOP.core.exec_inst[96:0] (56)TOP.core.exec_inst[96:0] (57)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct7} (58)TOP.core.exec_inst[96:0] (59)TOP.core.exec_inst[96:0] (60)TOP.core.exec_inst[96:0] (61)TOP.core.exec_inst[96:0] (62)TOP.core.exec_inst[96:0] (63)TOP.core.exec_inst[96:0] (64)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+@800022
+#{imm} (65)TOP.core.exec_inst[96:0] (66)TOP.core.exec_inst[96:0] (67)TOP.core.exec_inst[96:0] (68)TOP.core.exec_inst[96:0] (69)TOP.core.exec_inst[96:0] (70)TOP.core.exec_inst[96:0] (71)TOP.core.exec_inst[96:0] (72)TOP.core.exec_inst[96:0] (73)TOP.core.exec_inst[96:0] (74)TOP.core.exec_inst[96:0] (75)TOP.core.exec_inst[96:0] (76)TOP.core.exec_inst[96:0] (77)TOP.core.exec_inst[96:0] (78)TOP.core.exec_inst[96:0] (79)TOP.core.exec_inst[96:0] (80)TOP.core.exec_inst[96:0] (81)TOP.core.exec_inst[96:0] (82)TOP.core.exec_inst[96:0] (83)TOP.core.exec_inst[96:0] (84)TOP.core.exec_inst[96:0] (85)TOP.core.exec_inst[96:0] (86)TOP.core.exec_inst[96:0] (87)TOP.core.exec_inst[96:0] (88)TOP.core.exec_inst[96:0] (89)TOP.core.exec_inst[96:0] (90)TOP.core.exec_inst[96:0] (91)TOP.core.exec_inst[96:0] (92)TOP.core.exec_inst[96:0] (93)TOP.core.exec_inst[96:0] (94)TOP.core.exec_inst[96:0] (95)TOP.core.exec_inst[96:0] (96)TOP.core.exec_inst[96:0]
+@1001200
+-group_end
+-group_end
+@200
+-
+@800022
+TOP.core.mem_inst[96:0]
+#{is_pb} (0)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800028
+#{addr} (1)TOP.core.mem_inst[96:0] (2)TOP.core.mem_inst[96:0] (3)TOP.core.mem_inst[96:0] (4)TOP.core.mem_inst[96:0] (5)TOP.core.mem_inst[96:0] (6)TOP.core.mem_inst[96:0] (7)TOP.core.mem_inst[96:0] (8)TOP.core.mem_inst[96:0] (9)TOP.core.mem_inst[96:0] (10)TOP.core.mem_inst[96:0] (11)TOP.core.mem_inst[96:0] (12)TOP.core.mem_inst[96:0] (13)TOP.core.mem_inst[96:0] (14)TOP.core.mem_inst[96:0] (15)TOP.core.mem_inst[96:0] (16)TOP.core.mem_inst[96:0] (17)TOP.core.mem_inst[96:0] (18)TOP.core.mem_inst[96:0] (19)TOP.core.mem_inst[96:0] (20)TOP.core.mem_inst[96:0] (21)TOP.core.mem_inst[96:0] (22)TOP.core.mem_inst[96:0] (23)TOP.core.mem_inst[96:0] (24)TOP.core.mem_inst[96:0] (25)TOP.core.mem_inst[96:0] (26)TOP.core.mem_inst[96:0] (27)TOP.core.mem_inst[96:0] (28)TOP.core.mem_inst[96:0] (29)TOP.core.mem_inst[96:0] (30)TOP.core.mem_inst[96:0] (31)TOP.core.mem_inst[96:0] (32)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{opcode} (33)TOP.core.mem_inst[96:0] (34)TOP.core.mem_inst[96:0] (35)TOP.core.mem_inst[96:0] (36)TOP.core.mem_inst[96:0] (37)TOP.core.mem_inst[96:0] (38)TOP.core.mem_inst[96:0] (39)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct3} (40)TOP.core.mem_inst[96:0] (41)TOP.core.mem_inst[96:0] (42)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rd} (43)TOP.core.mem_inst[96:0] (44)TOP.core.mem_inst[96:0] (45)TOP.core.mem_inst[96:0] (46)TOP.core.mem_inst[96:0] (47)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs1} (48)TOP.core.mem_inst[96:0] (49)TOP.core.mem_inst[96:0] (50)TOP.core.mem_inst[96:0] (51)TOP.core.mem_inst[96:0] (52)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs2} (53)TOP.core.mem_inst[96:0] (54)TOP.core.mem_inst[96:0] (55)TOP.core.mem_inst[96:0] (56)TOP.core.mem_inst[96:0] (57)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct7} (58)TOP.core.mem_inst[96:0] (59)TOP.core.mem_inst[96:0] (60)TOP.core.mem_inst[96:0] (61)TOP.core.mem_inst[96:0] (62)TOP.core.mem_inst[96:0] (63)TOP.core.mem_inst[96:0] (64)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+@800022
+#{imm} (65)TOP.core.mem_inst[96:0] (66)TOP.core.mem_inst[96:0] (67)TOP.core.mem_inst[96:0] (68)TOP.core.mem_inst[96:0] (69)TOP.core.mem_inst[96:0] (70)TOP.core.mem_inst[96:0] (71)TOP.core.mem_inst[96:0] (72)TOP.core.mem_inst[96:0] (73)TOP.core.mem_inst[96:0] (74)TOP.core.mem_inst[96:0] (75)TOP.core.mem_inst[96:0] (76)TOP.core.mem_inst[96:0] (77)TOP.core.mem_inst[96:0] (78)TOP.core.mem_inst[96:0] (79)TOP.core.mem_inst[96:0] (80)TOP.core.mem_inst[96:0] (81)TOP.core.mem_inst[96:0] (82)TOP.core.mem_inst[96:0] (83)TOP.core.mem_inst[96:0] (84)TOP.core.mem_inst[96:0] (85)TOP.core.mem_inst[96:0] (86)TOP.core.mem_inst[96:0] (87)TOP.core.mem_inst[96:0] (88)TOP.core.mem_inst[96:0] (89)TOP.core.mem_inst[96:0] (90)TOP.core.mem_inst[96:0] (91)TOP.core.mem_inst[96:0] (92)TOP.core.mem_inst[96:0] (93)TOP.core.mem_inst[96:0] (94)TOP.core.mem_inst[96:0] (95)TOP.core.mem_inst[96:0] (96)TOP.core.mem_inst[96:0]
+@1001200
+-group_end
+-group_end
+@200
+-
+@800022
+TOP.core.wb_inst[96:0]
+#{is_pb} (0)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800028
+#{addr} (1)TOP.core.wb_inst[96:0] (2)TOP.core.wb_inst[96:0] (3)TOP.core.wb_inst[96:0] (4)TOP.core.wb_inst[96:0] (5)TOP.core.wb_inst[96:0] (6)TOP.core.wb_inst[96:0] (7)TOP.core.wb_inst[96:0] (8)TOP.core.wb_inst[96:0] (9)TOP.core.wb_inst[96:0] (10)TOP.core.wb_inst[96:0] (11)TOP.core.wb_inst[96:0] (12)TOP.core.wb_inst[96:0] (13)TOP.core.wb_inst[96:0] (14)TOP.core.wb_inst[96:0] (15)TOP.core.wb_inst[96:0] (16)TOP.core.wb_inst[96:0] (17)TOP.core.wb_inst[96:0] (18)TOP.core.wb_inst[96:0] (19)TOP.core.wb_inst[96:0] (20)TOP.core.wb_inst[96:0] (21)TOP.core.wb_inst[96:0] (22)TOP.core.wb_inst[96:0] (23)TOP.core.wb_inst[96:0] (24)TOP.core.wb_inst[96:0] (25)TOP.core.wb_inst[96:0] (26)TOP.core.wb_inst[96:0] (27)TOP.core.wb_inst[96:0] (28)TOP.core.wb_inst[96:0] (29)TOP.core.wb_inst[96:0] (30)TOP.core.wb_inst[96:0] (31)TOP.core.wb_inst[96:0] (32)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{opcode} (33)TOP.core.wb_inst[96:0] (34)TOP.core.wb_inst[96:0] (35)TOP.core.wb_inst[96:0] (36)TOP.core.wb_inst[96:0] (37)TOP.core.wb_inst[96:0] (38)TOP.core.wb_inst[96:0] (39)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct3} (40)TOP.core.wb_inst[96:0] (41)TOP.core.wb_inst[96:0] (42)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rd} (43)TOP.core.wb_inst[96:0] (44)TOP.core.wb_inst[96:0] (45)TOP.core.wb_inst[96:0] (46)TOP.core.wb_inst[96:0] (47)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs1} (48)TOP.core.wb_inst[96:0] (49)TOP.core.wb_inst[96:0] (50)TOP.core.wb_inst[96:0] (51)TOP.core.wb_inst[96:0] (52)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{rs2} (53)TOP.core.wb_inst[96:0] (54)TOP.core.wb_inst[96:0] (55)TOP.core.wb_inst[96:0] (56)TOP.core.wb_inst[96:0] (57)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{funct7} (58)TOP.core.wb_inst[96:0] (59)TOP.core.wb_inst[96:0] (60)TOP.core.wb_inst[96:0] (61)TOP.core.wb_inst[96:0] (62)TOP.core.wb_inst[96:0] (63)TOP.core.wb_inst[96:0] (64)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+@800022
+#{imm} (65)TOP.core.wb_inst[96:0] (66)TOP.core.wb_inst[96:0] (67)TOP.core.wb_inst[96:0] (68)TOP.core.wb_inst[96:0] (69)TOP.core.wb_inst[96:0] (70)TOP.core.wb_inst[96:0] (71)TOP.core.wb_inst[96:0] (72)TOP.core.wb_inst[96:0] (73)TOP.core.wb_inst[96:0] (74)TOP.core.wb_inst[96:0] (75)TOP.core.wb_inst[96:0] (76)TOP.core.wb_inst[96:0] (77)TOP.core.wb_inst[96:0] (78)TOP.core.wb_inst[96:0] (79)TOP.core.wb_inst[96:0] (80)TOP.core.wb_inst[96:0] (81)TOP.core.wb_inst[96:0] (82)TOP.core.wb_inst[96:0] (83)TOP.core.wb_inst[96:0] (84)TOP.core.wb_inst[96:0] (85)TOP.core.wb_inst[96:0] (86)TOP.core.wb_inst[96:0] (87)TOP.core.wb_inst[96:0] (88)TOP.core.wb_inst[96:0] (89)TOP.core.wb_inst[96:0] (90)TOP.core.wb_inst[96:0] (91)TOP.core.wb_inst[96:0] (92)TOP.core.wb_inst[96:0] (93)TOP.core.wb_inst[96:0] (94)TOP.core.wb_inst[96:0] (95)TOP.core.wb_inst[96:0] (96)TOP.core.wb_inst[96:0]
+@1001200
+-group_end
+-group_end
+@200
+-
